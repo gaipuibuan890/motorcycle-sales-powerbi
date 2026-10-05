@@ -121,7 +121,7 @@ Total Revenue = [Total Sales] + [Service Revenue]
 
 ## How to Open
 
-1. Download `Motorcycle_Sales.pbix` from this repository.
+1. Download `Motor_Cycle Project_power BI` from this repository.
 2. Open it in **Power BI Desktop** (free from Microsoft).
 3. Use the page tabs at the bottom and the slicers on Page 1 (Year, Category, Region) to explore.
 
@@ -131,7 +131,7 @@ Total Revenue = [Total Sales] + [Service Revenue]
 
 ```
 ├── README.md
-├── Motorcycle_Sales.pbix
+├── ├── Motor_Cycle Project_power BI.pbix
 ├── screenshots/
 │   ├── page1_overview.png
 │   ├── page2_brand_category.png
